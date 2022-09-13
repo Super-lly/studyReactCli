@@ -1,0 +1,23 @@
+.parent{
+  width: 500px;
+  padding: 8px;
+  background-color: aqua;
+}
+
+.child{
+  width: 100%;
+  padding: 8px;
+  background-color: skyblue;
+}
+
+.grand{
+  width: 100%;
+  padding: 8px;
+  background-color: greenyellow;
+}
+
+.grand_d{
+  width: 100%;
+  padding: 8px;
+  background-color: blueviolet;
+}
